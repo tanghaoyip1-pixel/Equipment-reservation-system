@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+  service:
+    build:
+      dockerfile: Dockerfile
+      context: .
+      args:
+        VITE_SERVER_URL: ${VITE_SERVER_URL}
+        VITE_APP_NAME: ${VITE_APP_NAME}
+    image: ono-lab-reservation:latest
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
