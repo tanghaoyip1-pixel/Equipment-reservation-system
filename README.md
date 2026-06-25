@@ -1,6 +1,6 @@
-# Ono Lab — Equipment Reservation System
+# Lab — Equipment Reservation System
 
-裝置使用予約システム | Tohoku University (東北大学)
+裝置使用予約システム | Laboratory Equipment Management
 
 A web-based equipment reservation calendar for research laboratories. Built by adapting the [lims-project-FE](https://github.com/krisssix/lims-project-FE) frontend by Kristina Nazarjanova.
 

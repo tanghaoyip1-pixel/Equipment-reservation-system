@@ -28,8 +28,8 @@ function printPage() {
   <v-navigation-drawer permanent class="no-print" width="220">
     <!-- Tohoku University mark -->
     <div class="pa-4 text-center border-b">
-      <div class="text-primary font-weight-bold text-body-1">東北大学</div>
-      <div class="text-caption text-medium-emphasis">Equipment Reservation</div>
+      <div class="text-primary font-weight-bold text-body-1">Lab Equipment</div>
+      <div class="text-caption text-medium-emphasis">Reservation System</div>
     </div>
 
     <v-list density="compact" nav class="pa-2">

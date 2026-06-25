@@ -27,7 +27,7 @@ const aboutOpen = ref(false)
       <v-card-text>
         <h3 class="mb-2">Authors</h3>
         <p class="mb-1">浩一 &amp; Claude Coding</p>
-        <p class="text-caption text-grey mb-4">Ono Lab — Equipment Reservation System</p>
+        <p class="text-caption text-grey mb-4">Lab Equipment Reservation System</p>
 
         <h3 class="mb-2">Architecture</h3>
         <pre class="text-caption bg-grey-lighten-4 pa-3 rounded" style="line-height: 1.6">{{

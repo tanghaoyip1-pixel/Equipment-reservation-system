@@ -22,7 +22,7 @@ export const useSettingsStore = defineStore('settings', () => {
     workingHoursStart: '08:00',
     workingHoursEnd: '20:00',
     allowOverlappingReservations: false,
-    appName: 'Ono Lab - Equipment Reservation',
+    appName: 'Lab Equipment Reservation',
   }
 
   async function fetchSettings(): Promise<void> {
